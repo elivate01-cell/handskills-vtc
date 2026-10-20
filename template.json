@@ -1,0 +1,23 @@
+{
+  "name": "Handskills Vocational Centre",
+  "slug": "handskills-vtc",
+  "concept": "Vocational training centre",
+  "category": "education-learning",
+  "subcategory": "vocational-training",
+  "description": "Public-poster style vocational centre: trade certificates row, term intake dates, tools-you-keep note and sponsorship appeal for apprentices.",
+  "design_family": "poster-public",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "public-poster typography",
+    "trade certificate cards",
+    "term intake date strip",
+    "tools-you-keep panel",
+    "apprentice sponsorship appeal",
+    "registration checklist"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
